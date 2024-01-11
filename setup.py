@@ -20,5 +20,8 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     author="Teddy Chen",
-    author_email="teddychenster@gmail.com"
+    author_email="teddychenster@gmail.com",
+    project_urls = {
+        'github': "https://github.com/teddy21019/dotomorrow"
+    },
 )

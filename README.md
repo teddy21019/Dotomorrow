@@ -73,7 +73,7 @@ with SavedIterator("cache.pk", [1, 2, 3, 4, 5]) as si:
 
 ## Contributing
 
-We welcome contributions from the community. If you encounter any issues, have suggestions for improvements, or want to contribute new features, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/yourusername/dotomorrow).
+We welcome contributions from the community. If you encounter any issues, have suggestions for improvements, or want to contribute new features, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/teddy21019/dotomorrow).
 
 ## License
 
