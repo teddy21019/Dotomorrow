@@ -75,6 +75,8 @@ with SavedIterator("cache.pk", [1, 2, 3, 4, 5]) as si:
 
 We welcome contributions from the community. If you encounter any issues, have suggestions for improvements, or want to contribute new features, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/teddy21019/dotomorrow).
 
+For a walkthrough of the technical details behind this project, checkout my [medium article](https://ted21019.medium.com/code-behind-dotomorrow-context-manager-in-python-194c3d20d748)
+
 ## License
 
 This project is licensed under the MIT License.
